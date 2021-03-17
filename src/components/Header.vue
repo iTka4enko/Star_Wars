@@ -129,6 +129,7 @@ nav{
 
     &__burger{
         cursor: pointer;
+        transform: translateY(-3px);
 
         &:hover>div{
             background-color: $red;
